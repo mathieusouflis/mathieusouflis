@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on my <ins>2025 Portfolio</ins><br>🌱 I am currently learning <ins>ThreeJS & Interactive Design</ins><br>⚡ I am open for <ins>Freelance Projects</ins>
+🔭 Currently building my <ins>2025 portfolio</ins><br>🌱 Learning <ins>Blockchain, Web3, and software architecture</ins><br>⚡ Available for <ins>freelance projects</ins>
 
 
 ## 🌐 Socials:
